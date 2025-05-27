@@ -1,4 +1,4 @@
-### 🔍 Is `assign()` a replacement for both `clear()` and `resize()`?
+### Is `assign()` a replacement for both `clear()` and `resize()`?
 
 **Yes — in many cases, `assign()` can *replace* the use of both `clear()` and `resize()` together**, because:
 
