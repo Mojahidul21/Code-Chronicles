@@ -197,6 +197,15 @@ The **struct** version is more readable, while the **tuple** version is quicker 
 
 ---
 
+## ⫷AAA⫸  
+Here is an example of a problem and different solutions where I used all these three.  
+Problem Statement: https://www.codechef.com/problems/KBOXES?tab=statement  
+Solution Using Struct: https://www.codechef.com/viewsolution/1162910302  
+Solution Using Tuple: https://www.codechef.com/viewsolution/1162879483  
+Solution Using Class: https://www.codechef.com/viewsolution/1162915346  
+
+---
+
 ## 🧵 Conclusion
 
 C++ gives you powerful tools for managing related data: `struct`, `tuple`, and `class`. Each has its own strengths:
