@@ -150,3 +150,8 @@ int main() {
 | `sort(vector<tuple<...>>)`    | Lexicographical sorting      |
 
 ---
+
+## ⫷AAA⫸
+Here is a problem where I used tuple -  
+Problem Statement: https://www.codechef.com/problems/KBOXES  
+My Solution: https://www.codechef.com/viewsolution/1162809202
